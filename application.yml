@@ -1,2 +1,6 @@
 test:
  msg: Hi how are you
+
+management:
+    security:
+        enable: false
